@@ -1,2 +1,3 @@
-# duelingbook-replay-userscript
-Userscript to conveniently download duelingbook replay JSON.
+# Duelingbook Replay UserScripts
+
+Collection of userscripts for duelingbook replays.
